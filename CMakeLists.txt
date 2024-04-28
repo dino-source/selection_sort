@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.29.0)
-project(single_number VERSION 0.0.1
+project(selection_sort VERSION 0.0.1
     DESCRIPTION "selection_sort"
     LANGUAGES CXX)
 
